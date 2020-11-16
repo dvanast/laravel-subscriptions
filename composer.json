@@ -37,10 +37,10 @@
         }
     ],
     "repositories": [
-      {
-        "type": "vcs",
-        "url": "https://github.com/dvanast/laravel-support.git"
-      }
+        {
+          "type": "vcs",
+          "url": "https://github.com/dvanast/laravel-support.git"
+        }
     ],
     "require": {
         "php": "^7.4.0",
